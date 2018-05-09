@@ -43,3 +43,5 @@ local.properties
 .gradle
 build
 /.classpath
+/.project
+.settings
