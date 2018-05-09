@@ -22,7 +22,7 @@ public class FlowerPower
     
     private Block petalBlock;
     
-    @SubscribeEveRegistryEvent<IForgeRegistryEntry<T>>c void registerBlocks(RegistryEvent.Register<Block> event) {
+    @SubscribeEveRegistryEvent<IForgeRegistryEntry<T>> void registerBlocks(RegistryEvent.Register<Block> event) {
     	event.getRegistry().register(petalBlock);
     }
 
