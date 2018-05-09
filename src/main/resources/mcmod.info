@@ -1,0 +1,16 @@
+[
+{
+  "modid": "flowerpower",
+  "name": "FlowerPower",
+  "description": "Beginner mod, adds a flower, a petal item, and a petal block.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FairlyManaged"],
+  "credits": "The Forge Documentation for helping get this started",
+  "logoFile": "assets/fairlymanaged/textures/rufus.jpg",
+  "screenshots": [],
+  "dependencies": []
+}
+]
